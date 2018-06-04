@@ -1,6 +1,8 @@
 # Android Application Development - exercises
 This is an Android Application Development course exercises repository.
 
+TESTING
+
 ## How to work
 Each student downloads this exercise repository from the Android Application 
 Development workspace at JAMK GitLab. After that, each student need to import this 
