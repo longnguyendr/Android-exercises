@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityState</string>
+    <string name="hello_world">Click button to change text</string>
+    <string name="button_text">Change content</string>
+</resources>
