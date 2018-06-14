@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaunchMap</string>
+    <string name="title_text">Get location (input Lat,Lng)</string>
+</resources>
